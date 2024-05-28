@@ -1,0 +1,227 @@
+start_date,end_date,speciesManagement,port,pounds,value
+011989,121989,Groundfish,Crescent City,23471587.0,$3872738.975
+011989,121989,Marine State Managed Invertebrates,Crescent City,15350218.83,$8169153.9742
+011989,121989,Highly Migratory Species (HMS),Crescent City,104386.4,$87650.596
+011989,121989,Inland State Managed Species,Crescent City,-1.0,$-1.0
+011989,121989,Nearshore Fishery Management Plan Species,Crescent City,-1.0,$-1.0
+011989,121989,Marine State Managed Fish,Crescent City,325412.67,$120257.9855
+011990,121990,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+011989,121989,Salmon,Crescent City,131314.0,$293549.4
+011990,121990,Groundfish,Crescent City,17851800.0,$3108999.6615
+011990,121990,Marine State Managed Invertebrates,Crescent City,12714173.55,$10833443.9285
+011990,121990,Nearshore Fishery Management Plan Species,Crescent City,7326.0,$2349.7
+011990,121990,Highly Migratory Species (HMS),Crescent City,106335.0,$196297.35
+011990,121990,Marine State Managed Fish,Crescent City,410955.05,$147223.1725
+011991,121991,Groundfish,Crescent City,18229433.31,$2876259.3484
+011991,121991,Highly Migratory Species (HMS),Crescent City,117459.0,$211416.0
+011990,121990,Salmon,Crescent City,20504.0,$55821.254
+011991,121991,Nearshore Fishery Management Plan Species,Crescent City,3637.0,$991.6
+011991,121991,Marine State Managed Fish,Crescent City,587570.0,$175146.648
+011991,121991,Marine State Managed Invertebrates,Crescent City,11223892.73,$7540913.9854
+011991,121991,Salmon,Crescent City,4025.0,$8611.164
+011992,121992,Highly Migratory Species (HMS),Crescent City,1124051.5,$1745304.815
+011992,121992,Marine State Managed Fish,Crescent City,672303.0,$163180.515
+011992,121992,Groundfish,Crescent City,15737492.29,$2896823.7711
+011992,121992,Marine State Managed Invertebrates,Crescent City,21711042.0,$10866954.84
+011993,121993,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+011993,121993,Groundfish,Crescent City,12250352.75,$2703285.8735
+011992,121992,Nearshore Fishery Management Plan Species,Crescent City,3009.0,$673.59
+011992,121992,Salmon,Crescent City,-1.0,$-1.0
+011993,121993,Highly Migratory Species (HMS),Crescent City,1525677.84,$1984602.402
+011993,121993,Marine State Managed Fish,Crescent City,342187.0,$85698.04
+011993,121993,Marine State Managed Invertebrates,Crescent City,13043465.05,$9173477.4075
+011993,121993,Nearshore Fishery Management Plan Species,Crescent City,838.0,$286.37
+011993,121993,Salmon,Crescent City,3061.0,$3139.176
+011994,121994,Coastal Pelagic Species (CPS),Crescent City,175.0,$40.16
+011994,121994,Groundfish,Crescent City,11470709.11,$2377225.8186
+011994,121994,Marine State Managed Fish,Crescent City,610389.0,$179114.725
+011994,121994,Highly Migratory Species (HMS),Crescent City,996195.0,$1329276.53
+011994,121994,Marine State Managed Invertebrates,Crescent City,15844448.24,$14333080.6805
+011994,121994,Other,Crescent City,-1.0,$-1.0
+011994,121994,Nearshore Fishery Management Plan Species,Crescent City,321.0,$125.63
+011994,121994,Salmon,Crescent City,-1.0,$-1.0
+011995,121995,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+011995,121995,Highly Migratory Species (HMS),Crescent City,199735.0,$201294.72
+011995,121995,Groundfish,Crescent City,14120571.54,$3786655.2725
+011995,121995,Marine State Managed Fish,Crescent City,849045.16,$288673.278
+011995,121995,Nearshore Fishery Management Plan Species,Crescent City,958.32,$532.825
+011995,121995,Salmon,Crescent City,5024.0,$6907.25
+011995,121995,Marine State Managed Invertebrates,Crescent City,6731532.99,$7177972.885
+011996,121996,Highly Migratory Species (HMS),Crescent City,689718.8,$602452.803
+011996,121996,Groundfish,Crescent City,11996386.3,$3558004.6305
+011996,121996,Marine State Managed Invertebrates,Crescent City,12740524.88,$12082806.6275
+011996,121996,Marine State Managed Fish,Crescent City,934537.97,$379858.4125
+011996,121996,Nearshore Fishery Management Plan Species,Crescent City,1235.04,$571.624
+011996,121996,Salmon,Crescent City,2680.0,$4527.05
+011997,121997,Coastal Pelagic Species (CPS),Crescent City,15547.1,$775.9
+011997,121997,Groundfish,Crescent City,19304235.63,$4079464.3545
+011997,121997,Marine State Managed Fish,Crescent City,260450.5,$117194.855
+011997,121997,Marine State Managed Invertebrates,Crescent City,12176080.74,$9060398.2085
+011997,121997,Highly Migratory Species (HMS),Crescent City,1016159.35,$840525.6455
+011997,121997,Nearshore Fishery Management Plan Species,Crescent City,14872.1,$23061.28
+011997,121997,Other,Crescent City,2307.0,$1412.3
+011997,121997,Salmon,Crescent City,-1.0,$-1.0
+011998,121998,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+011998,121998,Marine State Managed Fish,Crescent City,202654.3,$87112.95
+011998,121998,Highly Migratory Species (HMS),Crescent City,309500.5,$351557.395
+011998,121998,Groundfish,Crescent City,16813024.05,$2977682.4215
+011998,121998,Marine State Managed Invertebrates,Crescent City,5487239.18,$7328824.115
+011998,121998,Nearshore Fishery Management Plan Species,Crescent City,17742.57,$39140.559
+011998,121998,Salmon,Crescent City,655.05,$1356.45
+011999,121999,Coastal Pelagic Species (CPS),Crescent City,5125.0,$431.65
+011999,121999,Groundfish,Crescent City,7318925.86,$2427137.9445
+011999,121999,Highly Migratory Species (HMS),Crescent City,95469.0,$148244.47
+011999,121999,Inland State Managed Species,Crescent City,-1.0,$-1.0
+011999,121999,Marine State Managed Fish,Crescent City,189674.76,$73955.515
+011999,121999,Marine State Managed Invertebrates,Crescent City,6748699.53,$8868293.405
+011999,121999,Nearshore Fishery Management Plan Species,Crescent City,15242.47,$45422.9075
+011999,121999,Salmon,Crescent City,5896.0,$12542.175
+012000,122000,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+012000,122000,Groundfish,Crescent City,10160422.79,$2598269.121
+012000,122000,Highly Migratory Species (HMS),Crescent City,162713.03,$276604.936
+012000,122000,Marine State Managed Fish,Crescent City,145826.2,$52217.214
+012000,122000,Marine State Managed Invertebrates,Crescent City,5117744.9,$7480426.5645
+012000,122000,Nearshore Fishery Management Plan Species,Crescent City,21994.95,$82506.9555
+012000,122000,Salmon,Crescent City,2676.45,$6218.8025
+012001,122001,Coastal Pelagic Species (CPS),Crescent City,5307.0,$6359.25
+012001,122001,Groundfish,Crescent City,7436199.86,$2209995.4895
+012001,122001,Highly Migratory Species (HMS),Crescent City,448186.9,$396011.7325
+012001,122001,Marine State Managed Fish,Crescent City,141561.97,$43457.675
+012001,122001,Marine State Managed Invertebrates,Crescent City,3174965.93,$3451639.8572
+012001,122001,Nearshore Fishery Management Plan Species,Crescent City,8749.2,$30859.005
+012001,122001,Salmon,Crescent City,12700.0,$24122.35
+012002,122002,Highly Migratory Species (HMS),Crescent City,233682.55,$232735.18
+012002,122002,Groundfish,Crescent City,3094911.62,$2051745.287
+012002,122002,Marine State Managed Fish,Crescent City,52910.46,$17945.925
+012002,122002,Marine State Managed Invertebrates,Crescent City,2891439.8,$3086030.0475
+012002,122002,Nearshore Fishery Management Plan Species,Crescent City,7592.45,$28319.0105
+012002,122002,Salmon,Crescent City,54994.85,$109530.925
+012003,122003,Groundfish,Crescent City,2228340.7,$1693106.2375
+012003,122003,Highly Migratory Species (HMS),Crescent City,223484.15,$165215.705
+012003,122003,Marine State Managed Fish,Crescent City,159732.0,$62636.81
+012003,122003,Marine State Managed Invertebrates,Crescent City,9663634.3,$14799035.6495
+012003,122003,Nearshore Fishery Management Plan Species,Crescent City,5831.7,$25280.875
+012003,122003,Salmon,Crescent City,39045.0,$97264.1
+012004,122004,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+012004,122004,Groundfish,Crescent City,4791743.65,$1047999.95
+012004,122004,Highly Migratory Species (HMS),Crescent City,393183.9,$298171.6415
+012004,122004,Marine State Managed Fish,Crescent City,13421.26,$5046.325
+012004,122004,Marine State Managed Invertebrates,Crescent City,11501309.2,$17902490.475
+012004,122004,Nearshore Fishery Management Plan Species,Crescent City,6394.0,$24053.43
+012004,122004,Salmon,Crescent City,306643.7,$928142.82
+012005,122005,Groundfish,Crescent City,3449771.6,$1346804.995
+012005,122005,Highly Migratory Species (HMS),Crescent City,228317.25,$212266.6325
+012005,122005,Marine State Managed Fish,Crescent City,5856.6,$2218.6
+012005,122005,Marine State Managed Invertebrates,Crescent City,3286180.0,$4751235.21
+012005,122005,Nearshore Fishery Management Plan Species,Crescent City,7371.0,$24309.375
+012005,122005,Salmon,Crescent City,25044.6,$71046.15
+012006,122006,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+012006,122006,Groundfish,Crescent City,4711944.93,$1641980.805
+012006,122006,Highly Migratory Species (HMS),Crescent City,134615.0,$113226.575
+012006,122006,Marine State Managed Fish,Crescent City,4054.2,$1803.14
+012006,122006,Nearshore Fishery Management Plan Species,Crescent City,6263.25,$23072.2175
+012006,122006,Marine State Managed Invertebrates,Crescent City,12924903.53,$20911737.855
+012006,122006,Salmon,Crescent City,-1.0,$-1.0
+012007,122007,Groundfish,Crescent City,3610296.57,$1716835.0245
+012007,122007,Highly Migratory Species (HMS),Crescent City,257220.5,$210855.125
+012007,122007,Marine State Managed Fish,Crescent City,17350.1,$6584.75
+012007,122007,Marine State Managed Invertebrates,Crescent City,4601817.25,$10305394.1325
+012007,122007,Nearshore Fishery Management Plan Species,Crescent City,7051.67,$26429.6475
+012007,122007,Salmon,Crescent City,34383.0,$187188.45
+012008,122008,Groundfish,Crescent City,9441088.5,$2532046.878
+012008,122008,Highly Migratory Species (HMS),Crescent City,165835.0,$161198.97
+012008,122008,Marine State Managed Invertebrates,Crescent City,3951987.99,$6565249.008
+012008,122008,Marine State Managed Fish,Crescent City,34397.1,$13083.5
+012008,122008,Nearshore Fishery Management Plan Species,Crescent City,5998.5,$21662.941
+012008,122008,Salmon,Crescent City,785.0,$0.0
+012009,122009,Groundfish,Crescent City,5860423.01,$2370979.985
+012009,122009,Highly Migratory Species (HMS),Crescent City,220472.65,$205983.525
+012009,122009,Marine State Managed Fish,Crescent City,24701.2,$11988.8
+012009,122009,Marine State Managed Invertebrates,Crescent City,9893802.19,$14992775.546
+012009,122009,Nearshore Fishery Management Plan Species,Crescent City,4568.5,$17384.2
+012009,122009,Salmon,Crescent City,-1.0,$-1.0
+012010,122010,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+012010,122010,Groundfish,Crescent City,6048825.25,$1227076.0275
+012010,122010,Highly Migratory Species (HMS),Crescent City,297843.83,$299137.245
+012010,122010,Marine State Managed Fish,Crescent City,10815.0,$4257.45
+012010,122010,Marine State Managed Invertebrates,Crescent City,6932345.75,$9011897.5025
+012010,122010,Nearshore Fishery Management Plan Species,Crescent City,4237.5,$16260.35
+012010,122010,Salmon,Crescent City,1042.25,$0.0
+012011,122011,Groundfish,Crescent City,836536.0,$859447.326
+012011,122011,Highly Migratory Species (HMS),Crescent City,244948.0,$335367.99
+012011,122011,Marine State Managed Fish,Crescent City,44032.5,$12505.025
+012011,122011,Marine State Managed Invertebrates,Crescent City,6378454.64,$7206496.7754
+012011,122011,Nearshore Fishery Management Plan Species,Crescent City,5231.5,$19030.05
+012011,122011,Salmon,Crescent City,8288.0,$40041.0
+012012,122012,Groundfish,Crescent City,384454.0,$542233.5823
+012012,122012,Highly Migratory Species (HMS),Crescent City,14896.4,$22572.2
+012012,122012,Marine State Managed Fish,Crescent City,110573.0,$61944.75
+012012,122012,Nearshore Fishery Management Plan Species,Crescent City,4818.5,$19699.6
+012012,122012,Marine State Managed Invertebrates,Crescent City,12321616.76,$27603381.9706
+012012,122012,Salmon,Crescent City,4691.0,$23658.75
+012013,122013,Highly Migratory Species (HMS),Crescent City,129804.0,$164199.5
+012013,122013,Groundfish,Crescent City,290943.8,$367947.7301
+012013,122013,Marine State Managed Fish,Crescent City,11676.0,$6488.25
+012013,122013,Nearshore Fishery Management Plan Species,Crescent City,3673.0,$16542.75
+012013,122013,Marine State Managed Invertebrates,Crescent City,17756162.13,$33641511.7914
+012013,122013,Salmon,Crescent City,24213.5,$139106.6
+012014,122014,Highly Migratory Species (HMS),Crescent City,122935.45,$154330.75
+012014,122014,Groundfish,Crescent City,499358.74,$527736.7003
+012014,122014,Marine State Managed Fish,Crescent City,36201.0,$18958.3
+012014,122014,Marine State Managed Invertebrates,Crescent City,8679897.22,$12373485.07
+012014,122014,Nearshore Fishery Management Plan Species,Crescent City,2761.0,$11703.75
+012014,122014,Salmon,Crescent City,26864.7,$136087.8
+012015,122015,Groundfish,Crescent City,347509.16,$714616.7875
+012015,122015,Highly Migratory Species (HMS),Crescent City,51662.05,$81413.149
+012015,122015,Marine State Managed Invertebrates,Crescent City,6606216.68,$5666418.426
+012015,122015,Marine State Managed Fish,Crescent City,9454.0,$5340.9
+012015,122015,Nearshore Fishery Management Plan Species,Crescent City,3780.09,$17112.9725
+012015,122015,Salmon,Crescent City,5809.46,$34052.1675
+012016,122016,Groundfish,Crescent City,854222.15,$935246.11
+012016,122016,Highly Migratory Species (HMS),Crescent City,31609.4,$58566.06
+012016,122016,Nearshore Fishery Management Plan Species,Crescent City,2505.7,$12282.15
+012016,122016,Salmon,Crescent City,-1.0,$-1.0
+012016,122016,Marine State Managed Fish,Crescent City,8839.36,$5322.885
+012016,122016,Marine State Managed Invertebrates,Crescent City,8600610.3,$22065975.56
+012017,122017,Marine State Managed Fish,Crescent City,1028.0,$703.65
+012017,122017,Groundfish,Crescent City,781593.8,$1104529.952
+012017,122017,Highly Migratory Species (HMS),Crescent City,82205.2,$160892.24
+012017,122017,Marine State Managed Invertebrates,Crescent City,4240665.29,$6163206.6866
+012017,122017,Nearshore Fishery Management Plan Species,Crescent City,2576.6,$11666.87
+012018,122018,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+012018,122018,Groundfish,Crescent City,199801.95,$482588.055
+012018,122018,Highly Migratory Species (HMS),Crescent City,103277.7,$140432.65
+012018,122018,Marine State Managed Fish,Crescent City,208188.3,$167154.45
+012018,122018,Marine State Managed Invertebrates,Crescent City,12043876.46,$27086488.2137
+012018,122018,Nearshore Fishery Management Plan Species,Crescent City,3348.75,$15203.475
+012018,122018,Salmon,Crescent City,42127.25,$354141.425
+012019,122019,Coastal Pelagic Species (CPS),Crescent City,-1.0,$-1.0
+012019,122019,Highly Migratory Species (HMS),Crescent City,187956.5,$115246.84
+012019,122019,Groundfish,Crescent City,245936.25,$509452.73
+012019,122019,Marine State Managed Fish,Crescent City,-1.0,$-1.0
+012019,122019,Marine State Managed Invertebrates,Crescent City,7725970.12,$21270773.1788
+012019,122019,Nearshore Fishery Management Plan Species,Crescent City,4570.0,$20059.5
+012019,122019,Salmon,Crescent City,38736.0,$226545.05
+012020,122020,Groundfish,Crescent City,177419.35,$348023.045
+012020,122020,Highly Migratory Species (HMS),Crescent City,-1.0,$-1.0
+012020,122020,Inland State Managed Species,Crescent City,-1.0,$-1.0
+012020,122020,Marine State Managed Fish,Crescent City,-1.0,$-1.0
+012020,122020,Nearshore Fishery Management Plan Species,Crescent City,-1.0,$-1.0
+012020,122020,Marine State Managed Invertebrates,Crescent City,3528919.8,$10194878.7898
+012021,122021,Groundfish,Crescent City,222612.95,$418102.8082
+012021,122021,Highly Migratory Species (HMS),Crescent City,47471.0,$103970.6
+012021,122021,Marine State Managed Fish,Crescent City,-1.0,$-1.0
+012021,122021,Marine State Managed Invertebrates,Crescent City,3972427.53,$19463463.6677
+012021,122021,Nearshore Fishery Management Plan Species,Crescent City,5676.5,$19788.75
+012021,122021,Salmon,Crescent City,25901.0,$135832.0
+012022,122022,Groundfish,Crescent City,495721.95,$721249.368
+012022,122022,Highly Migratory Species (HMS),Crescent City,203874.7,$332469.89
+012022,122022,Marine State Managed Fish,Crescent City,100460.5,$100879.0
+012022,122022,Marine State Managed Invertebrates,Crescent City,701995.7,$4209534.55
+012022,122022,Nearshore Fishery Management Plan Species,Crescent City,11605.65,$61845.65
+012022,122022,Salmon,Crescent City,1919.0,$15834.17
+012023,122023,Groundfish,Crescent City,266991.3,$505050.045
+012023,122023,Highly Migratory Species (HMS),Crescent City,7826.0,$19772.0
+012023,122023,Marine State Managed Fish,Crescent City,90454.0,$132897.5
+012023,122023,Nearshore Fishery Management Plan Species,Crescent City,6571.6,$35441.1
+012023,122023,Marine State Managed Invertebrates,Crescent City,9926733.95,$24748458.54
